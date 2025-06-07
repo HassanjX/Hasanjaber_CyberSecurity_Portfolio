@@ -69,15 +69,3 @@ Feel free to connect or collaborate!
 - `/Resources/` – Helpful links, tutorials, and tools
 
 ---
-
-## 🧾 License
-
-This portfolio is open source and available under the [MIT License](LICENSE). Feel free to use it as inspiration or a template for your own portfolio.
-
----
-
-> ✅ *All findings and reports shared here are for educational and demonstration purposes only.*
-
----
-
-Let me know if you'd like to include badges, custom icons, or integrate GitHub stats/widgets!
